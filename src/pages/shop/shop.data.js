@@ -80,7 +80,7 @@ const SHOP_DATA = [
         {
           id: 14,
           name: "Great Wall Pao",
-          imageUrl: "https://i.ibb.co/QcvzydB/nikes-red.png",
+          imageUrl: "https://avtotachki.com/wp-content/uploads/2020/05/great_wall_pao_2019_1-e1588709671332.jpg",
           price: 39500,
         },
         {
